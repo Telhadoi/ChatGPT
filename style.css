@@ -1,0 +1,37 @@
+body{
+    background: url(fon-minimalizm-72.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: unset;
+}
+
+h1{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: teal;
+    text-shadow: 2px 2px 2px black;
+}
+
+
+
+#main{
+    width: 900px;
+    height: 1000px;
+    margin: 100px auto 100px auto;
+    border: 1px solid #cccccc;
+    background-color: #FFFFFF;
+    background-image: url('oboi.jpg');
+}
+
+#main img{
+    margin-left: 200px;
+    width: 500px;
+    height: auto;
+}
+
+#main h3{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-size: 30px;
+}
